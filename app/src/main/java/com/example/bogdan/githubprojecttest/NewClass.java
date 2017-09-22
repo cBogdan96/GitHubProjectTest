@@ -8,5 +8,6 @@ package com.example.bogdan.githubprojecttest;
 public class NewClass {
 
     public NewClass() {
+
     }
 }
